@@ -1,70 +1,97 @@
-<!-- Animated header banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:2E5C8A&height=200&section=header&text=Pardeep%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security-Focused%20Software%20Engineer&descAlignY=58&descSize=18" alt="Pardeep Kumar banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0B3D2E,100:00C896&height=210&section=header&text=Pardeep%20Kumar&fontSize=50&fontColor=E6EDF3&animation=fadeIn&fontAlignY=36&desc=Cyber%20Security%20Engineer%20%E2%80%A2%20Application%20%26%20AI%20Security&descAlignY=58&descSize=17" alt="Pardeep Kumar – Cyber Security Engineer" />
 </p>
 
 <!-- Typing animation -->
 <p align="center">
-  <a href="https://github.com/Param-khandwal">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=Application+%26+AI+Security;Secure+Web+Apps+%7C+IAM+%26+RBAC;Python+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+MySQL;Relocating+to+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=00C896&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%86%92+Cyber+Security+Engineer;Application+Security+%7C+IAM+%7C+RBAC;Securing+web+apps+%26+AI+systems;OWASP+Top+10+%E2%80%A2+Secure+SDLC+%E2%80%A2+Threat+Detection;Relocating+to+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
 </p>
 
-<!-- Badges -->
+<!-- Contact badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/pardeep-kumar20"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:pardeep.cyberdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Deutsch-A2%20→%20B1-000000?style=for-the-badge&logo=googletranslate&logoColor=FFCE00" alt="German level" />
-  <img src="https://komarev.com/ghpvc/?username=Param-khandwal&style=for-the-badge&color=2E5C8A&label=Profile+views" alt="Profile views" />
+  <a href="mailto:pardeep.cyberdev@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00C896" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-Security%20Roles%20in%20Germany-00C896?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Open to security roles in Germany" />
+  <img src="https://komarev.com/ghpvc/?username=Param-khandwal&style=for-the-badge&color=0B3D2E&label=Profile+views" alt="Profile views" />
 </p>
 
 ---
 
-## 👨‍💻 About me
+```bash
+$ whoami
+Pardeep Kumar · Cyber Security Engineer
 
-- 🔐 I build **secure web applications**: role-based access control, multi-tenant data isolation and hardened REST APIs
-- 🤖 Moving into **AI security**: prompt injection, LLM data leakage, OWASP Top 10 for LLM Applications
-- 🎓 B.Tech Computer Science (MDU) · PG Diploma in Advanced Secure Software Development (**CDAC Hyderabad**)
-- 📜 Google Cybersecurity Professional Certificate
-- 🇩🇪 *Ich lerne Deutsch und bereite meinen Umzug nach Deutschland vor.*
-- 🌱 Currently building: **an LLM prompt-injection firewall**
+$ cat focus.txt
+Application Security   → OWASP Top 10, secure coding, input validation, injection prevention
+Identity & Access      → IAM, RBAC, JWT authentication, least privilege, multi-tenant isolation
+Security Monitoring    → security logging, authentication-anomaly detection, incident reporting
+AI Security            → prompt injection, LLM data leakage, OWASP Top 10 for LLM Applications
+
+$ cat education.txt
+PG Diploma, Advanced Secure Software Development (PG-DASSD) · CDAC Hyderabad
+B.Tech, Computer Science & Engineering · MDU Rohtak
+
+$ echo $LOCATION
+India → Germany 🇩🇪  (Deutsch: A2, working towards B1)
+```
 
 ---
 
-## 🛠️ Tech stack
+## 🛡️ Security work highlights
+
+- 🔐 **Designed role-based access control (RBAC)** so that only authorised staff could see sensitive support tickets
+- 🧱 **Built multi-tenant data isolation** so that client and department data could never leak across boundaries
+- 💉 **Prevented SQL injection** across every data-entry point using strict input validation and parameterised queries
+- 🔑 **Implemented JWT authentication** with Admin / IT / Employee roles and per-role permissions
+- 📈 **Added security logging and telemetry** to internal tools to detect authentication anomalies
+- 🧾 **Wrote incident reports and documentation** for international clients and compliance tracking
+
+---
+
+## 🧰 Security toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,mysql,mongodb,react,fastapi,nodejs,express,aws,linux,windows,git,github&perline=8" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,python,bash,js,java,c,mysql,mongodb,fastapi,react,nodejs,aws,git,github&perline=8&theme=dark" alt="Tech stack icons" />
 </p>
 
-**Security:** OWASP Top 10 · IAM & RBAC · JWT auth · secure coding · input validation · security monitoring
+| Area | Skills |
+|---|---|
+| **AppSec** | OWASP Top 10 · secure coding · input validation · REST API security · code review |
+| **Identity & access** | IAM · RBAC · AWS IAM · JWT · least privilege |
+| **Defensive security** | Security monitoring · log analysis · incident handling · threat detection |
+| **Foundations** | Networking · cryptography · Linux & Windows administration · troubleshooting |
+| **AI security** | Prompt injection · LLM data leakage · OWASP Top 10 for LLM Applications |
+
+---
+
+## 🏅 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate" />
+  <img src="https://img.shields.io/badge/CDAC-PG--DASSD%20Secure%20Software-0B3D2E?style=for-the-badge" alt="CDAC PG-DASSD" />
+  <img src="https://img.shields.io/badge/Lakeside-SysTrack%20(6%20certs)-555555?style=for-the-badge" alt="Lakeside SysTrack certifications" />
+</p>
 
 ---
 
 ## 🚀 Featured projects
 
-| Project | What it does | Stack |
+| Project | Security focus | Stack |
 |---|---|---|
-| 🗂️ [Asset Management System](https://github.com/Param-khandwal/Inventory_Management_System) | Tracks company assets, assignments and warranty, with JWT login and Admin / IT / Employee roles | React · Node.js · Express · MySQL |
-| 🎫 [Helpdesk Ticketing System](https://github.com/Param-khandwal/customer-ticketing-tool) | Full support-ticket lifecycle with role-based permissions, assignment groups and a knowledge base | React · Node.js · Express · MySQL · JWT |
-| ✉️ [Sanchar Mail Transfer Agent](https://github.com/Param-khandwal/Sanchar-Mail-Transfer-Agent) | SMTP-based mail transfer between servers (CDAC project) | C |
+| 🗂️ [Asset Management System](https://github.com/Param-khandwal/Inventory_Management_System) | JWT auth, role-based access (Admin / IT / Employee), employees see only their own assets | React · Node.js · Express · MySQL |
+| 🎫 [Helpdesk Ticketing System](https://github.com/Param-khandwal/customer-ticketing-tool) | Role-based permissions, bcrypt password hashing, JWT sessions, audit trail of ticket activity | React · Node.js · Express · MySQL |
+| ✉️ [Sanchar Mail Transfer Agent](https://github.com/Param-khandwal/Sanchar-Mail-Transfer-Agent) | SMTP mail transfer between servers (CDAC project) | C |
+| 🤖 **LLM Prompt-Injection Firewall** *(in progress)* | Detects and blocks prompt-injection and jailbreak attempts before they reach an LLM | Python · FastAPI |
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Param-khandwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Param-khandwal&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Param-khandwal&show_icons=true&theme=github_dark&title_color=00C896&icon_color=00C896&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Param-khandwal&layout=compact&theme=github_dark&title_color=00C896&hide_border=true" alt="Top languages" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Param-khandwal&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-## 🐍 Contribution snake
 
 <p align="center">
   <picture>
@@ -73,7 +100,12 @@
   </picture>
 </p>
 
-<!-- Footer wave -->
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5C8A,100:1F3A5F&height=110&section=footer" alt="footer" />
+  <i>"Security is not a product, but a process."</i> — Bruce Schneier
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,50:0B3D2E,100:0D1117&height=110&section=footer" alt="footer" />
 </p>
