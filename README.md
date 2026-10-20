@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0B3D2E,100:00C896&height=210&section=header&text=Pardeep%20Kumar&fontSize=50&fontColor=E6EDF3&animation=fadeIn&fontAlignY=36&desc=Cyber%20Security%20Engineer%20%E2%80%A2%20Application%20%26%20AI%20Security&descAlignY=58&descSize=17" alt="Pardeep Kumar – Cyber Security Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0B3D2E,100:00C896&height=210&section=header&text=Pardeep%20Kumar&fontSize=50&fontColor=E6EDF3&animation=fadeIn&fontAlignY=36&desc=Cyber%20Security%20Engineer%20%7C%20Application%20and%20AI%20Security&descAlignY=58&descSize=17" alt="Pardeep Kumar – Cyber Security Engineer" />
 </p>
 
 <!-- Typing animation -->
@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/pardeep-kumar20"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:pardeep.cyberdev@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00C896" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Open%20to-Security%20Roles%20in%20Germany-00C896?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Open to security roles in Germany" />
-  <img src="https://komarev.com/ghpvc/?username=Param-khandwal&style=for-the-badge&color=0B3D2E&label=Profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Param-khandwal&style=for-the-badge&color=0B3D2E&label=Profile%20views&abbreviated=true" alt="Profile views" />
 </p>
 
 ---
